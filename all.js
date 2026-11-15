@@ -17,7 +17,7 @@ window.__SHEYAKA_MANIFEST__ = {
     ]
   },
   "category-filters": {
-    "file": "modules/category-filters.e41062f050307c9f.js"
+    "file": "modules/category-filters.0896e2256217bc61.js"
   },
   "mobile-header": {
     "file": "modules/mobile-header.04d0c57b4d070c1f.js"
@@ -107,7 +107,11 @@ window.__SHEYAKA_MANIFEST__ = {
     const config = manifest[slug] || {};
     switch (slug) {
       case 'mobile-header':
-        return matchMedia('(max-width: 767px)').matches;
+        // Legacy module name: this implements BOTH desktop and mobile headers.
+        // It was previously excluded on desktop, leaving Salla's mobile fallback
+        // visible and removing the full search / category navigation.
+        // The module applies its own responsive styles and handles resizing.
+        return true;
       case 'nearest-branch':
         return config.showOn === 'all' || type === 'home' ||
           (config.branchesPage && location.pathname.includes('page-' + config.branchesPage));
@@ -163,8 +167,13 @@ window.__SHEYAKA_MANIFEST__ = {
   function run() {
     const type = pageType();
     metrics.page = type;
+
+    // Site chrome is critical. Load it before category/product enhancements so
+    // the full desktop header does not wait behind larger feature scripts.
+    if (shouldLoad('mobile-header', type)) load('mobile-header');
+
     for (const slug of Object.keys(manifest)) {
-      if (!shouldLoad(slug, type)) continue;
+      if (slug === 'mobile-header' || !shouldLoad(slug, type)) continue;
       if (['nearest-branch', 'product-reviews', 'product-faqs'].includes(slug)) lazyLoad(slug);
       else load(slug);
     }
@@ -180,8 +189,7 @@ window.__SHEYAKA_MANIFEST__ = {
     window.salla.onReady().then(run).catch(() => undefined);
   }
 
-  // Mobile navigation may be opened after a desktop-sized page becomes narrow.
-  matchMedia('(max-width: 767px)').addEventListener('change', run);
+  // The shared header module handles screen-size changes internally.
   // Salla themes sometimes update routes without reloading the document.
   window.addEventListener('popstate', run);
   window.addEventListener('hashchange', run);
