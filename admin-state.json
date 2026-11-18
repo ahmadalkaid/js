@@ -303,109 +303,109 @@
         "clipHorizontalOverflow": true,
         "colorOrder": [
           {
-            "name": "أبيضJJ",
+            "name": "أبيض",
             "nameEn": "White",
-            "hex": "#d9d3cb"
+            "hex": "#ffffff"
           },
           {
-            "name": "كريميkk",
+            "name": "كريمي",
             "nameEn": "Cream",
-            "hex": "#d9d3cb"
+            "hex": "#efe6d6"
           },
           {
-            "name": "عاجيkk",
+            "name": "عاجي",
             "nameEn": "Ivory",
-            "hex": "#d9d3cb"
+            "hex": "#f4ead7"
           },
           {
-            "name": "بيج فاتحkk",
+            "name": "بيج فاتح",
             "nameEn": "Light beige",
-            "hex": "#d9d3cb"
+            "hex": "#e7d7be"
           },
           {
-            "name": "بيجkk",
+            "name": "بيج",
             "nameEn": "Beige",
-            "hex": "#d9d3cb"
+            "hex": "#d4c4a8"
           },
           {
-            "name": "رمليkk",
+            "name": "رملي",
             "nameEn": "Sand",
-            "hex": "#d9d3cb"
+            "hex": "#cbb48a"
           },
           {
-            "name": "بيج غامقkk",
+            "name": "بيج غامق",
             "nameEn": "Dark beige",
-            "hex": "#d9d3cb"
+            "hex": "#b89a72"
           },
           {
-            "name": "بني فاتحkk",
+            "name": "بني فاتح",
             "nameEn": "Light brown",
-            "hex": "#d9d3cb"
+            "hex": "#a67c52"
           },
           {
-            "name": "بنيkk",
+            "name": "بني",
             "nameEn": "Brown",
-            "hex": "#d9d3cb"
+            "hex": "#6f4b32"
           },
           {
-            "name": "ذهبيkk",
+            "name": "ذهبي",
             "nameEn": "Gold",
-            "hex": "#d9d3cb"
+            "hex": "#c2a15b"
           },
           {
-            "name": "رمادي فاتحkk",
+            "name": "رمادي فاتح",
             "nameEn": "Light grey",
-            "hex": "#d9d3cb"
+            "hex": "#d5d0c8"
           },
           {
-            "name": "رماديkk",
+            "name": "رمادي",
             "nameEn": "Grey",
-            "hex": "#d9d3cb"
+            "hex": "#8b8680"
           },
           {
-            "name": "رمادي مزرقkk",
+            "name": "رمادي مزرق",
             "nameEn": "Bluish grey",
-            "hex": "#d9d3cb"
+            "hex": "#8d99a8"
           },
           {
-            "name": "رمادي غامقkk",
+            "name": "رمادي غامق",
             "nameEn": "Dark grey",
-            "hex": "#d9d3cb"
+            "hex": "#5c5854"
           },
           {
-            "name": "فحميkk",
+            "name": "فحمي",
             "nameEn": "Charcoal",
-            "hex": "#d9d3cb"
+            "hex": "#3a3a3a"
           },
           {
-            "name": "أسودkk",
+            "name": "أسود",
             "nameEn": "Black",
-            "hex": "#d9d3cb"
+            "hex": "#111111"
           },
           {
-            "name": "كحليkk",
+            "name": "كحلي",
             "nameEn": "Navy",
-            "hex": "#d9d3cb"
+            "hex": "#1b365d"
           },
           {
-            "name": "كحلي غامقkk",
+            "name": "كحلي غامق",
             "nameEn": "Dark navy",
-            "hex": "#d9d3cb"
+            "hex": "#101b33"
           },
           {
-            "name": "أزرقkk",
+            "name": "أزرق",
             "nameEn": "Blue",
-            "hex": "#d9d3cb"
+            "hex": "#2b4c7e"
           },
           {
-            "name": "سماويkk",
+            "name": "سماوي",
             "nameEn": "Sky blue",
-            "hex": "#d9d3cb"
+            "hex": "#6fa8c9"
           },
           {
-            "name": "زيتيkk",
+            "name": "زيتي",
             "nameEn": "Olive",
-            "hex": "#d9d3cb"
+            "hex": "#4a5a32"
           },
           {
             "name": "زيتي غامق",
