@@ -789,6 +789,15 @@
               "key": "jacket"
             }
           ]
+        },
+        "filterVisibility": {
+          "customFields": [],
+          "customValues": [],
+          "fields": {
+            "fabric_brand": false
+          },
+          "values": {},
+          "categories": {}
         }
       },
       "enabled": true,
