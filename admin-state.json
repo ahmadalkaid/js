@@ -712,13 +712,6 @@
             "image": ""
           },
           {
-            "value": "ريثوب",
-            "valueEn": "Rethobe",
-            "field": "fabric_brand",
-            "audience": "",
-            "image": ""
-          },
-          {
             "value": "جاكيت وسديري",
             "valueEn": "Jacket and vest",
             "field": "product_type",
@@ -798,7 +791,9 @@
           "categories": {}
         },
         "showMySizeBar": false,
-        "enableCategorySizeFinder": true
+        "enableCategorySizeFinder": true,
+        "fieldAliases": [],
+        "fieldCatalog": []
       },
       "enabled": true,
       "slug": "category-filters",
