@@ -798,7 +798,9 @@
           },
           "values": {},
           "categories": {}
-        }
+        },
+        "showMySizeBar": false,
+        "enableCategorySizeFinder": true
       },
       "enabled": true,
       "slug": "category-filters",
