@@ -5,10 +5,10 @@
  */
 window.__SHEYAKA_MANIFEST__ = {
   "product-colors": {
-    "file": "modules/product-colors.44ac0510b4283b4c.js"
+    "file": "modules/product-colors.8d3cd16a4e14772b.js"
   },
   "product-options": {
-    "file": "modules/product-options.857a0d3213d39438.js"
+    "file": "modules/product-options.b2164595b2dd038c.js"
   },
   "build-your-look": {
     "file": "modules/build-your-look.77f5382b52beac09.js",
@@ -17,7 +17,7 @@ window.__SHEYAKA_MANIFEST__ = {
     ]
   },
   "category-filters": {
-    "file": "modules/category-filters.83674dff5847c3e4.js"
+    "file": "modules/category-filters.51e2a3dac8eff96b.js"
   },
   "mobile-header": {
     "file": "modules/mobile-header.04d0c57b4d070c1f.js"
