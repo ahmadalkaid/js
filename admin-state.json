@@ -793,9 +793,7 @@
         "filterVisibility": {
           "customFields": [],
           "customValues": [],
-          "fields": {
-            "fabric_brand": false
-          },
+          "fields": {},
           "values": {},
           "categories": {}
         },
