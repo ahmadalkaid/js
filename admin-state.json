@@ -265,7 +265,10 @@
           "customValues": [],
           "fields": {
             "style": false,
-            "fabric_country": false
+            "fabric_country": false,
+            "fabric_use": false,
+            "fabric_design": false,
+            "fabric_brand": false
           },
           "values": {
             "style::وقفه كامله": false,
@@ -287,7 +290,12 @@
             "product_type::جاكيت وسديري": false,
             "fabric_country::قماش ياباني": false,
             "fabric_design::مطرز": false,
-            "fabric_design::عصري": false
+            "fabric_design::عصري": false,
+            "fabric_brand::كلاسيك": false,
+            "fabric_brand::الفاخر": false,
+            "fabric_brand::اعمال": false,
+            "fabric_brand::ري ثوب": false,
+            "fabric_brand::زخرفات": false
           },
           "categories": {}
         },
