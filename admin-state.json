@@ -258,7 +258,7 @@
     },
     "category-filters": {
       "config": {
-        "showMySizeBar": true,
+        "showMySizeBar": false,
         "enableCategorySizeFinder": true,
         "filterVisibility": {
           "customFields": [],
