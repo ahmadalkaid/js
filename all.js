@@ -17,7 +17,7 @@ window.__SHEYAKA_MANIFEST__ = {
     ]
   },
   "category-filters": {
-    "file": "modules/category-filters.e85cd81ac5f43875.js"
+    "file": "modules/category-filters.6e840d4986605f1d.js"
   },
   "mobile-header": {
     "file": "modules/mobile-header.04d0c57b4d070c1f.js"

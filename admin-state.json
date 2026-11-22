@@ -1019,7 +1019,7 @@
             "image": "https://cdn.files.salla.network/other/2024087497/648f95f6-b124-4142-a3fe-d221b551feed-original.webp"
           }
         ],
-        "visualTilesEnabled": false
+        "visualTilesEnabled": true
       },
       "enabled": true,
       "slug": "category-filters",
