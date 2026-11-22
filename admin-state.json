@@ -1083,7 +1083,105 @@
             "image": "https://cdn.files.salla.network/other/2024087497/ddc33356-ad27-46f2-96ef-258f4343b59f-original.webp"
           }
         ],
-        "visualTilesEnabled": true
+        "visualTilesEnabled": true,
+        "visualOrder": [
+          {
+            "field": "thobe_type",
+            "value": "رسمي"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "عصري"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "مطرز"
+          },
+          {
+            "field": "fabric_feel",
+            "value": "نص وقفة"
+          },
+          {
+            "field": "fabric_feel",
+            "value": "ربع وقفة"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "ياباني"
+          },
+          {
+            "field": "fabric_type",
+            "value": "قماش ياباني"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "سميراميس"
+          },
+          {
+            "field": "fabric_design",
+            "value": "سميراميس"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "مودال"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "ملمس الصوف"
+          },
+          {
+            "field": "fabric_feel",
+            "value": "منسدل"
+          },
+          {
+            "field": "fabric_season",
+            "value": "شتوي"
+          },
+          {
+            "field": "fabric_feel",
+            "value": "لا يتجعد"
+          },
+          {
+            "field": "fabric_feel",
+            "value": "454"
+          },
+          {
+            "field": "fabric_feel",
+            "value": "ثقيل"
+          },
+          {
+            "field": "fabric_design",
+            "value": "سادة"
+          },
+          {
+            "field": "fabric_design",
+            "value": "عصري"
+          },
+          {
+            "field": "fabric_design",
+            "value": "مطرز"
+          },
+          {
+            "field": "fabric_brand",
+            "value": "كلاسيك"
+          },
+          {
+            "field": "fabric_brand",
+            "value": "الفاخر"
+          },
+          {
+            "field": "fabric_brand",
+            "value": "أعمال"
+          },
+          {
+            "field": "fabric_brand",
+            "value": "ري ثوب"
+          },
+          {
+            "field": "fabric_brand",
+            "value": "زخرفات"
+          }
+        ]
       },
       "enabled": true,
       "slug": "category-filters",
