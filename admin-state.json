@@ -5245,7 +5245,7 @@
     "product-options": {
       "config": {
         "autoDetectSizeFinder": true,
-        "enableSizeFinder": true,
+        "enableSizeFinder": false,
         "shipsInDays": 2,
         "matrix": {
           "under-165": {
