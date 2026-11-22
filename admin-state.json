@@ -1017,6 +1017,62 @@
             "labelEn": "",
             "audience": "",
             "image": "https://cdn.files.salla.network/other/2024087497/648f95f6-b124-4142-a3fe-d221b551feed-original.webp"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "عصري",
+            "label": "",
+            "labelEn": "",
+            "audience": "",
+            "image": "https://cdn.salla.sa/PdBQYz/79af03cb-efe1-4e64-be9a-3f40fa49977b-333.33333333333x500-faIyjWX9Pj4CuvzsdRFf6uTpao7VL929lVLAUzvA.jpg"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "مطرز",
+            "label": "",
+            "labelEn": "",
+            "audience": "",
+            "image": "https://cdn.salla.sa/PdBQYz/829a3165-110c-4919-8f1a-85cfd85e99fd-333.33333333333x500-spQbg38xkLITv3iaHbmXXrLhb1ZZEyih7RdcjtcP.jpg"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "ياباني",
+            "label": "",
+            "labelEn": "",
+            "audience": "",
+            "image": "https://cdn.salla.sa/PdBQYz/e8bbcf65-1493-491e-881f-4309d976873d-333.33333333333x500-MQkgdkWjmNLQ4su6IvIyNyKNzNetW3EY9gbzcVpe.jpg"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "سميراميس",
+            "label": "",
+            "labelEn": "",
+            "audience": "",
+            "image": "https://cdn.salla.sa/PdBQYz/7cd99c9c-5471-4126-8ddb-3a4746b74cba-333.33333333333x500-hsqmKlOG9Uogg3C60YhstN1cUks37Mub6NbIhjkx.jpg"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "مودال",
+            "label": "",
+            "labelEn": "",
+            "audience": "",
+            "image": "https://cdn.salla.sa/PdBQYz/571b5aea-c842-48b1-8684-dd98a353e7ac-333.33333333333x500-LJ8f6AqRNnIaTqIrooeRDsDquFZuwVd1OGV1NVKF.jpg"
+          },
+          {
+            "field": "fabric_feature",
+            "value": "ملمس الصوف",
+            "label": "",
+            "labelEn": "",
+            "audience": "",
+            "image": "https://cdn.files.salla.network/other/2024087497/67f5292c-8421-4747-802e-dd905b2af71b-original.webp"
+          },
+          {
+            "field": "fabric_season",
+            "value": "شتوي",
+            "label": "",
+            "labelEn": "",
+            "audience": "",
+            "image": "https://cdn.files.salla.network/other/2024087497/ddc33356-ad27-46f2-96ef-258f4343b59f-original.webp"
           }
         ],
         "visualTilesEnabled": true
