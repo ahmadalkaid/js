@@ -1307,89 +1307,89 @@
         ],
         "categoryLabels": [
           {
+            "id": "1693788052",
             "ar": "رجالي",
-            "en": "Men",
-            "id": "1693788052"
+            "en": "Men"
           },
           {
+            "id": "604593805",
             "ar": "شبابي",
-            "en": "Youth",
-            "id": "604593805"
+            "en": "Youth"
           },
           {
+            "id": "1553846913",
             "ar": "أطفال",
-            "en": "Kids",
-            "id": "1553846913"
+            "en": "Kids"
           },
           {
+            "id": "1824113488",
             "ar": "نسائي",
-            "en": "Women",
-            "id": "1824113488"
+            "en": "Women"
           },
           {
+            "id": "919750293",
             "ar": "ثوب",
-            "en": "Thobe",
-            "id": "919750293"
+            "en": "Thobe"
           },
           {
+            "id": "779809154",
             "ar": "ثوب",
-            "en": "Thobe",
-            "id": "779809154"
+            "en": "Thobe"
           },
           {
+            "id": "1835961503",
             "ar": "شماغ",
-            "en": "Shemagh",
-            "id": "1835961503"
+            "en": "Shemagh"
           },
           {
+            "id": "2011049884",
             "ar": "شماغ",
-            "en": "Shemagh",
-            "id": "2011049884"
+            "en": "Shemagh"
           },
           {
+            "id": "1265055819",
             "ar": "الملابس الداخلية",
-            "en": "Underwear",
-            "id": "1265055819"
+            "en": "Underwear"
           },
           {
+            "id": "1089963350",
             "ar": "الملابس الداخلية",
-            "en": "Underwear",
-            "id": "1089963350"
+            "en": "Underwear"
           },
           {
+            "id": "519551816",
             "ar": "جلابيات",
-            "en": "Jalabiya",
-            "id": "519551816"
+            "en": "Jalabiya"
           },
           {
+            "id": "140706130",
             "ar": "جلابيات",
-            "en": "Jalabiya",
-            "id": "140706130"
+            "en": "Jalabiya"
           },
           {
+            "id": "985266506",
             "ar": "أحذية",
-            "en": "Shoes",
-            "id": "985266506"
+            "en": "Shoes"
           },
           {
+            "id": "1611322960",
             "ar": "جاكيت وسديري",
-            "en": "Jacket and vest",
-            "id": "1611322960"
+            "en": "Jacket and vest"
           },
           {
+            "id": "1716102369",
             "ar": "جاكيت وسديري",
-            "en": "Jacket and vest",
-            "id": "1716102369"
+            "en": "Jacket and vest"
           },
           {
+            "id": "476202123",
             "ar": "عباية",
-            "en": "Abaya",
-            "id": "476202123"
+            "en": "Abaya"
           },
           {
+            "id": "1617996248",
             "ar": "اوتليت",
-            "en": "Outlet",
-            "id": "1617996248"
+            "en": "Outlet"
           }
         ],
         "featuredCategories": [
@@ -1402,7 +1402,6 @@
               "رجال"
             ],
             "id": "2018055670",
-            "image": "",
             "slug": "كولكشن-الشتاء"
           },
           {
@@ -1415,61 +1414,60 @@
               "ولادي"
             ],
             "id": "2018055670",
-            "image": "",
             "slug": "كولكشن-الشتاء"
           }
         ],
         "homeMenus": [
           {
-            "aliases": "",
-            "ar": "رجالي",
-            "buttonId": "",
-            "en": "men",
             "id": "section-1",
+            "ar": "رجالي",
+            "en": "men",
             "menus": [
               {
-                "categoryId": "",
-                "label": "رجالي"
+                "label": "رجالي",
+                "categoryId": ""
               },
               {
-                "categoryId": "",
-                "label": "شبابي"
+                "label": "شبابي",
+                "categoryId": ""
               }
-            ]
+            ],
+            "buttonId": "",
+            "aliases": ""
           },
           {
-            "aliases": "boys",
-            "ar": "أطفال",
-            "buttonId": "",
-            "en": "kids",
             "id": "section-2",
+            "ar": "أطفال",
+            "en": "kids",
             "menus": [
               {
-                "categoryId": "",
-                "label": "ولادي"
+                "label": "ولادي",
+                "categoryId": ""
               }
-            ]
+            ],
+            "buttonId": "",
+            "aliases": "boys"
           },
           {
-            "aliases": "نساء",
-            "ar": "نسائي",
-            "buttonId": "",
-            "en": "women",
             "id": "section-4",
+            "ar": "نسائي",
+            "en": "women",
             "menus": [
               {
-                "categoryId": "",
-                "label": "نسائي"
+                "label": "نسائي",
+                "categoryId": ""
               }
-            ]
+            ],
+            "buttonId": "",
+            "aliases": "نساء"
           },
           {
-            "aliases": "",
-            "ar": "رجال",
-            "buttonId": "",
-            "en": "men",
             "id": "section-1792479350079",
-            "menus": []
+            "ar": "رجال",
+            "en": "men",
+            "menus": [],
+            "buttonId": "",
+            "aliases": ""
           }
         ],
         "i18n": {
