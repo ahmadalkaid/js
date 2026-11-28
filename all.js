@@ -20,7 +20,7 @@ window.__SHEYAKA_MANIFEST__ = {
     "file": "modules/category-filters.4b36b363940949f0.js"
   },
   "mobile-header": {
-    "file": "modules/mobile-header.5778c4bc9bf391f3.js"
+    "file": "modules/mobile-header.40247d50544f6fb5.js"
   },
   "nearest-branch": {
     "file": "modules/nearest-branch.e2190d7809a3a2b6.js",
